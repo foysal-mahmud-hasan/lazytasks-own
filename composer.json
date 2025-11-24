@@ -1,0 +1,20 @@
+{
+    "name": "rbs-03/lazytask",
+    "autoload": {
+        "psr-4": {
+            "Lazytask\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rakeybul Hasan",
+            "email": "rakeybul.rbs@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*",
+        "firebase/php-jwt": "v6.10.0",
+        "chillerlan/php-qrcode": "^5.0"
+    }
+}

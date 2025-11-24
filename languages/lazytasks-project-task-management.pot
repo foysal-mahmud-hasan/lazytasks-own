@@ -1,0 +1,2226 @@
+# Copyright (C) 2025 Lazycoders
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: LazyTasks - Project & Task Management with Collaboration, Kanban and Gantt Chart 1.2.35\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lazytasks-project-task-management\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-11-12T11:46:25+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: lazytasks-project-task-management\n"
+
+#. Plugin Name of the plugin
+#: lazytask.php
+msgid "LazyTasks - Project & Task Management with Collaboration, Kanban and Gantt Chart"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: lazytask.php
+msgid "https://lazycoders.co/lazytasks"
+msgstr ""
+
+#. Description of the plugin
+#: lazytask.php
+msgid "Comprehensive Task and Project Management: Create, assign, follow, and comment on tasks with ease. Our user-friendly interface ensures your projects are always on track and accessible."
+msgstr ""
+
+#. Author of the plugin
+#: lazytask.php
+msgid "Lazycoders"
+msgstr ""
+
+#. Author URI of the plugin
+#: lazytask.php
+msgid "https://lazycoders.co"
+msgstr ""
+
+#: admin/class-lazytask-admin.php:148
+#: admin/class-lazytask-admin.php:149
+msgid "LazyTasks"
+msgstr ""
+
+#: admin/class-lazytask-admin.php:160
+#: admin/class-lazytask-admin.php:161
+#: src/Services/TransStrings.php:19
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-lazytask-admin.php:170
+#: admin/class-lazytask-admin.php:171
+#: src/Services/TransStrings.php:20
+msgid "My Tasks"
+msgstr ""
+
+#: admin/class-lazytask-admin.php:181
+#: admin/class-lazytask-admin.php:182
+#: src/Services/TransStrings.php:22
+msgid "Portal"
+msgstr ""
+
+#: admin/class-lazytask-admin.php:192
+#: admin/class-lazytask-admin.php:193
+#: src/Services/TransStrings.php:26
+msgid "Settings"
+msgstr ""
+
+#: admin/class-lazytask-admin.php:202
+#: admin/class-lazytask-admin.php:203
+#: src/Services/TransStrings.php:277
+msgid "License"
+msgstr ""
+
+#: admin/class-lazytask-admin.php:224
+msgid "Lazytasks Portal"
+msgstr ""
+
+#: src/Controller/Lazytask_CompanyController.php:152
+msgid "Workspace created successfully"
+msgstr ""
+
+#: src/Controller/Lazytask_CompanyController.php:158
+#: src/Controller/Lazytask_CompanyController.php:328
+msgid "Workspace not found"
+msgstr ""
+
+#: src/Controller/Lazytask_CompanyController.php:174
+msgid "Workspace id is required"
+msgstr ""
+
+#: src/Controller/Lazytask_CompanyController.php:322
+msgid "Workspace updated successfully"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:319
+#: src/Controller/Lazytask_UserController.php:439
+msgid "JWT is not configured properly, please contact the administration"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:332
+msgid "Username is required"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:343
+msgid "Password is required"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:359
+msgid "Username is incorrect"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:370
+msgid "Password is incorrect"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:478
+msgid "Email not registered"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:813
+#: src/Controller/Lazytask_UserController.php:818
+msgid "Invalid credentials"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:1223
+#: src/Controller/Lazytask_UserController.php:1311
+msgid "Username field 'username' is required."
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:1227
+#: src/Controller/Lazytask_UserController.php:1315
+msgid "Email field 'email' is required."
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:1231
+msgid "Password field 'password' is required."
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:1281
+#: src/Controller/Lazytask_UserController.php:1393
+msgid "User not found"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:1283
+msgid "User Registration Failed"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:1286
+msgid "User already exists"
+msgstr ""
+
+#: src/Controller/Lazytask_UserController.php:1396
+msgid "User Update Failed"
+msgstr ""
+
+#: src/Services/TransStrings.php:21
+msgid "My Zen"
+msgstr ""
+
+#: src/Services/TransStrings.php:23
+msgid "Mobile App"
+msgstr ""
+
+#: src/Services/TransStrings.php:24
+#: src/Services/TransStrings.php:412
+msgid "Workspace"
+msgstr ""
+
+#: src/Services/TransStrings.php:25
+msgid "Profile"
+msgstr ""
+
+#: src/Services/TransStrings.php:27
+msgid "Logout"
+msgstr ""
+
+#: src/Services/TransStrings.php:30
+msgid "Project Summary"
+msgstr ""
+
+#: src/Services/TransStrings.php:31
+msgid "Project Summary Chart"
+msgstr ""
+
+#: src/Services/TransStrings.php:32
+msgid "Quick Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:33
+#: src/Services/TransStrings.php:502
+msgid "All"
+msgstr ""
+
+#: src/Services/TransStrings.php:34
+msgid "Overdue"
+msgstr ""
+
+#: src/Services/TransStrings.php:35
+msgid "OVERDUE"
+msgstr ""
+
+#: src/Services/TransStrings.php:36
+msgid "Today"
+msgstr ""
+
+#: src/Services/TransStrings.php:37
+msgid "7 Days"
+msgstr ""
+
+#: src/Services/TransStrings.php:38
+msgid "Upcoming"
+msgstr ""
+
+#: src/Services/TransStrings.php:39
+msgid "Add Quick Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:40
+#: src/Services/TransStrings.php:353
+msgid "Add Quick Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:41
+#: src/Services/TransStrings.php:601
+msgid "Active"
+msgstr ""
+
+#: src/Services/TransStrings.php:42
+msgid "Complete"
+msgstr ""
+
+#: src/Services/TransStrings.php:43
+#: src/Services/TransStrings.php:603
+msgid "Completed"
+msgstr ""
+
+#: src/Services/TransStrings.php:44
+msgid "ACTIVE"
+msgstr ""
+
+#: src/Services/TransStrings.php:45
+msgid "COMPLETED"
+msgstr ""
+
+#: src/Services/TransStrings.php:46
+msgid "Chart"
+msgstr ""
+
+#: src/Services/TransStrings.php:47
+#: src/Services/TransStrings.php:76
+msgid "Calendar"
+msgstr ""
+
+#: src/Services/TransStrings.php:50
+msgid "You have no quick tasks at the moment."
+msgstr ""
+
+#: src/Services/TransStrings.php:51
+msgid "Let's create one and become more efficient."
+msgstr ""
+
+#: src/Services/TransStrings.php:52
+msgid "Never forget a task however small it is!"
+msgstr ""
+
+#: src/Services/TransStrings.php:55
+msgid "Feedback"
+msgstr ""
+
+#: src/Services/TransStrings.php:56
+msgid "Premium Support"
+msgstr ""
+
+#: src/Services/TransStrings.php:57
+msgid "Connect with Founder"
+msgstr ""
+
+#: src/Services/TransStrings.php:58
+msgid "Write a Review"
+msgstr ""
+
+#: src/Services/TransStrings.php:59
+msgid "About"
+msgstr ""
+
+#: src/Services/TransStrings.php:60
+msgid "About LazyTasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:61
+msgid "Version"
+msgstr ""
+
+#: src/Services/TransStrings.php:62
+msgid "Developed by"
+msgstr ""
+
+#: src/Services/TransStrings.php:63
+msgid "Website"
+msgstr ""
+
+#: src/Services/TransStrings.php:64
+msgid "LazyTasks is brought to you by LazyCoders Inc., designed to streamline communication and project management. Combining ease of use with powerful features, we're committed to enhancing your collaborative experience."
+msgstr ""
+
+#: src/Services/TransStrings.php:65
+msgid "For support or feedback, please visit our website or contact us at"
+msgstr ""
+
+#. translators: %d is the number of users engaged
+#: src/Services/TransStrings.php:69
+#, php-format
+msgid "%d users engaged"
+msgstr ""
+
+#. translators: %d is the number of task
+#: src/Services/TransStrings.php:71
+#, php-format
+msgid "%d task"
+msgstr ""
+
+#: src/Services/TransStrings.php:74
+msgid "List"
+msgstr ""
+
+#: src/Services/TransStrings.php:75
+msgid "Board"
+msgstr ""
+
+#: src/Services/TransStrings.php:77
+msgid "Gantt Chart"
+msgstr ""
+
+#: src/Services/TransStrings.php:78
+msgid "Gantt chart"
+msgstr ""
+
+#: src/Services/TransStrings.php:79
+msgid "Refresh Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:80
+msgid "Refresh Section"
+msgstr ""
+
+#: src/Services/TransStrings.php:81
+msgid "Refresh"
+msgstr ""
+
+#: src/Services/TransStrings.php:82
+msgid "No tasks available to display the Gantt chart."
+msgstr ""
+
+#: src/Services/TransStrings.php:83
+msgid "You can add tasks on gantt chart from list tab."
+msgstr ""
+
+#: src/Services/TransStrings.php:84
+msgid "Alpha Release"
+msgstr ""
+
+#: src/Services/TransStrings.php:85
+msgid "Swimlane"
+msgstr ""
+
+#: src/Services/TransStrings.php:86
+msgid "Whiteboard"
+msgstr ""
+
+#: src/Services/TransStrings.php:87
+msgid "Beta"
+msgstr ""
+
+#: src/Services/TransStrings.php:88
+msgid "Coming Soon"
+msgstr ""
+
+#: src/Services/TransStrings.php:89
+msgid "Search"
+msgstr ""
+
+#: src/Services/TransStrings.php:90
+msgid "Add Task to Gantt Chart"
+msgstr ""
+
+#: src/Services/TransStrings.php:91
+msgid "Remove Task From Gantt Chart"
+msgstr ""
+
+#: src/Services/TransStrings.php:92
+msgid "Are you sure you want to remove task from gantt chart ?"
+msgstr ""
+
+#: src/Services/TransStrings.php:93
+msgid "Are you sure you want to Add Task to Gantt Chart ?"
+msgstr ""
+
+#: src/Services/TransStrings.php:94
+msgid "Add to Gantt"
+msgstr ""
+
+#: src/Services/TransStrings.php:95
+#: src/Services/TransStrings.php:195
+msgid "Remove from Gantt"
+msgstr ""
+
+#: src/Services/TransStrings.php:96
+msgid "Add All to Gantt"
+msgstr ""
+
+#: src/Services/TransStrings.php:97
+msgid "Remove All from Gantt"
+msgstr ""
+
+#: src/Services/TransStrings.php:98
+msgid "Do you want to remove all tasks from Gantt?"
+msgstr ""
+
+#: src/Services/TransStrings.php:99
+msgid "Group By"
+msgstr ""
+
+#: src/Services/TransStrings.php:100
+msgid "Section"
+msgstr ""
+
+#: src/Services/TransStrings.php:101
+#: src/Services/TransStrings.php:137
+msgid "Priority"
+msgstr ""
+
+#: src/Services/TransStrings.php:102
+#: src/Services/TransStrings.php:138
+msgid "Status"
+msgstr ""
+
+#: src/Services/TransStrings.php:103
+msgid "Assigned To"
+msgstr ""
+
+#: src/Services/TransStrings.php:104
+#: src/Services/TransStrings.php:135
+#: src/Services/TransStrings.php:385
+msgid "Due Date"
+msgstr ""
+
+#: src/Services/TransStrings.php:107
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: src/Services/TransStrings.php:108
+msgid "Inline Task Edit"
+msgstr ""
+
+#: src/Services/TransStrings.php:109
+msgid "View Task Details Drawer"
+msgstr ""
+
+#: src/Services/TransStrings.php:110
+msgid "Close Inline Task Popups"
+msgstr ""
+
+#: src/Services/TransStrings.php:111
+msgid "Close Task Details Drawer"
+msgstr ""
+
+#: src/Services/TransStrings.php:112
+msgid "Create New Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:113
+msgid "Focus Task Search Field"
+msgstr ""
+
+#: src/Services/TransStrings.php:114
+msgid "Open Project Dropdown"
+msgstr ""
+
+#: src/Services/TransStrings.php:115
+msgid "Go to Dashboard"
+msgstr ""
+
+#: src/Services/TransStrings.php:116
+msgid "Go to My Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:117
+msgid "Switch Views (List → Board → Calendar → Gantt)"
+msgstr ""
+
+#: src/Services/TransStrings.php:118
+msgid "Open Notifications"
+msgstr ""
+
+#. translators: %d is the number of task
+#: src/Services/TransStrings.php:122
+#, php-format
+msgid "%d tasks"
+msgstr ""
+
+#. translators: %d is the number people , invited, tag
+#: src/Services/TransStrings.php:124
+#, php-format
+msgid "%d people invited"
+msgstr ""
+
+#. translators: %d is the number people
+#: src/Services/TransStrings.php:126
+#, php-format
+msgid "%d people available"
+msgstr ""
+
+#. translators: %d is the number tag
+#: src/Services/TransStrings.php:128
+#, php-format
+msgid "%d tag available"
+msgstr ""
+
+#: src/Services/TransStrings.php:131
+msgid "Ref.#"
+msgstr ""
+
+#: src/Services/TransStrings.php:132
+msgid "Task Title"
+msgstr ""
+
+#: src/Services/TransStrings.php:133
+msgid "Assigned"
+msgstr ""
+
+#: src/Services/TransStrings.php:134
+msgid "Following"
+msgstr ""
+
+#: src/Services/TransStrings.php:136
+msgid "Date"
+msgstr ""
+
+#: src/Services/TransStrings.php:139
+msgid "Tags"
+msgstr ""
+
+#: src/Services/TransStrings.php:140
+msgid "Assign Tag"
+msgstr ""
+
+#: src/Services/TransStrings.php:141
+msgid "Attachments"
+msgstr ""
+
+#: src/Services/TransStrings.php:142
+msgid "Created By"
+msgstr ""
+
+#: src/Services/TransStrings.php:145
+msgid "Type task name here"
+msgstr ""
+
+#: src/Services/TransStrings.php:146
+#: src/Services/TransStrings.php:171
+msgid "Create"
+msgstr ""
+
+#: src/Services/TransStrings.php:147
+#: src/Services/TransStrings.php:175
+msgid "Type name here"
+msgstr ""
+
+#: src/Services/TransStrings.php:150
+msgid "Display on gantt"
+msgstr ""
+
+#: src/Services/TransStrings.php:153
+msgid "Search..."
+msgstr ""
+
+#: src/Services/TransStrings.php:154
+msgid "Quick search member"
+msgstr ""
+
+#: src/Services/TransStrings.php:157
+msgid "Enter your project name"
+msgstr ""
+
+#: src/Services/TransStrings.php:158
+msgid "Select Workspace"
+msgstr ""
+
+#: src/Services/TransStrings.php:159
+msgid "Project name"
+msgstr ""
+
+#: src/Services/TransStrings.php:160
+msgid "Configure Tabs"
+msgstr ""
+
+#: src/Services/TransStrings.php:161
+msgid "View Archive Tasks/Sections"
+msgstr ""
+
+#: src/Services/TransStrings.php:162
+msgid "Project Settings"
+msgstr ""
+
+#: src/Services/TransStrings.php:163
+msgid "Collapse Sections"
+msgstr ""
+
+#: src/Services/TransStrings.php:164
+msgid "Expand Sections"
+msgstr ""
+
+#: src/Services/TransStrings.php:165
+msgid "Invite By Email"
+msgstr ""
+
+#: src/Services/TransStrings.php:166
+msgid "Invite"
+msgstr ""
+
+#: src/Services/TransStrings.php:169
+msgid "Update"
+msgstr ""
+
+#: src/Services/TransStrings.php:170
+msgid "Delete"
+msgstr ""
+
+#: src/Services/TransStrings.php:172
+msgid "Send Invite"
+msgstr ""
+
+#: src/Services/TransStrings.php:173
+msgid "Invited"
+msgstr ""
+
+#: src/Services/TransStrings.php:174
+msgid "Submit"
+msgstr ""
+
+#: src/Services/TransStrings.php:176
+msgid "Type your comment here"
+msgstr ""
+
+#: src/Services/TransStrings.php:177
+msgid "What is the task about..."
+msgstr ""
+
+#: src/Services/TransStrings.php:180
+msgid "Color"
+msgstr ""
+
+#: src/Services/TransStrings.php:181
+msgid "ON"
+msgstr ""
+
+#: src/Services/TransStrings.php:182
+msgid "OFF"
+msgstr ""
+
+#: src/Services/TransStrings.php:185
+msgid "Load More"
+msgstr ""
+
+#: src/Services/TransStrings.php:188
+msgid "Mark as complete"
+msgstr ""
+
+#: src/Services/TransStrings.php:191
+msgid "Archive Section"
+msgstr ""
+
+#: src/Services/TransStrings.php:192
+msgid "Archive all task"
+msgstr ""
+
+#: src/Services/TransStrings.php:193
+msgid "Add All Tasks to Gantt"
+msgstr ""
+
+#: src/Services/TransStrings.php:194
+msgid "Remove All Tasks from Gantt"
+msgstr ""
+
+#: src/Services/TransStrings.php:198
+msgid "Add Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:199
+msgid "Add Subtask"
+msgstr ""
+
+#: src/Services/TransStrings.php:200
+msgid "View Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:201
+msgid "View Subtask"
+msgstr ""
+
+#: src/Services/TransStrings.php:202
+msgid "Complete Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:203
+msgid "Change Section"
+msgstr ""
+
+#: src/Services/TransStrings.php:204
+msgid "Archive Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:205
+msgid "Convert to Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:206
+msgid "Enable reference numbers for tasks?"
+msgstr ""
+
+#: src/Services/TransStrings.php:207
+msgid "Task Reference Number"
+msgstr ""
+
+#: src/Services/TransStrings.php:208
+msgid "Reference number cannot be empty"
+msgstr ""
+
+#: src/Services/TransStrings.php:209
+msgid "Reference number cannot be 0"
+msgstr ""
+
+#: src/Services/TransStrings.php:210
+msgid "Reference number cannot be greater than 4000"
+msgstr ""
+
+#: src/Services/TransStrings.php:211
+msgid "Enter a starting number (1–500). Once set, it can't be changed."
+msgstr ""
+
+#: src/Services/TransStrings.php:212
+msgid "Complete Subtask"
+msgstr ""
+
+#: src/Services/TransStrings.php:213
+msgid "Are you sure you want to complete this subtask?"
+msgstr ""
+
+#: src/Services/TransStrings.php:214
+msgid "Incomplete"
+msgstr ""
+
+#: src/Services/TransStrings.php:215
+msgid "Are you sure you want to incomplete this subtask?"
+msgstr ""
+
+#: src/Services/TransStrings.php:216
+msgid "Incomplete Subtask"
+msgstr ""
+
+#: src/Services/TransStrings.php:219
+msgid "API URL"
+msgstr ""
+
+#: src/Services/TransStrings.php:220
+msgid "Enter api url"
+msgstr ""
+
+#: src/Services/TransStrings.php:221
+msgid "API Key"
+msgstr ""
+
+#: src/Services/TransStrings.php:222
+msgid "Enter api key"
+msgstr ""
+
+#: src/Services/TransStrings.php:223
+msgid "API Secret Key"
+msgstr ""
+
+#: src/Services/TransStrings.php:224
+msgid "Enter api secret key"
+msgstr ""
+
+#: src/Services/TransStrings.php:225
+#: src/Services/TransStrings.php:440
+msgid "Sender Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:226
+msgid "Enter sender name"
+msgstr ""
+
+#: src/Services/TransStrings.php:227
+msgid "SMS Settings"
+msgstr ""
+
+#: src/Services/TransStrings.php:228
+msgid "License Warning"
+msgstr ""
+
+#: src/Services/TransStrings.php:229
+msgid "Update LazyTasks Whiteboard Addons"
+msgstr ""
+
+#: src/Services/TransStrings.php:232
+msgid "Add"
+msgstr ""
+
+#: src/Services/TransStrings.php:233
+#: src/Services/TransStrings.php:623
+msgid "Remove"
+msgstr ""
+
+#: src/Services/TransStrings.php:234
+msgid "Assign"
+msgstr ""
+
+#: src/Services/TransStrings.php:235
+msgid "Follow"
+msgstr ""
+
+#: src/Services/TransStrings.php:236
+msgid "YES"
+msgstr ""
+
+#: src/Services/TransStrings.php:237
+msgid "NO"
+msgstr ""
+
+#: src/Services/TransStrings.php:238
+msgid "to"
+msgstr ""
+
+#: src/Services/TransStrings.php:239
+msgid "is deleted."
+msgstr ""
+
+#: src/Services/TransStrings.php:240
+msgid "for this task"
+msgstr ""
+
+#: src/Services/TransStrings.php:243
+msgid "Archived Items"
+msgstr ""
+
+#: src/Services/TransStrings.php:244
+msgid "Archived Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:245
+msgid "Archived Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:246
+msgid "Archived Sections"
+msgstr ""
+
+#: src/Services/TransStrings.php:247
+msgid "Unarchive Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:248
+msgid "Are you sure you want to unarchive this task?"
+msgstr ""
+
+#: src/Services/TransStrings.php:249
+msgid "Unarchive"
+msgstr ""
+
+#: src/Services/TransStrings.php:250
+msgid "Cancel"
+msgstr ""
+
+#: src/Services/TransStrings.php:251
+msgid "Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:252
+msgid "Unarchiving The Task..."
+msgstr ""
+
+#: src/Services/TransStrings.php:253
+msgid "Delete Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:254
+msgid "Are you sure you want to permanently delete this task? This action cannot be undone."
+msgstr ""
+
+#: src/Services/TransStrings.php:255
+msgid "Deleting The Task..."
+msgstr ""
+
+#: src/Services/TransStrings.php:256
+msgid "Unarchiving Section..."
+msgstr ""
+
+#: src/Services/TransStrings.php:257
+msgid "No archived tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:258
+msgid "No archived sections"
+msgstr ""
+
+#: src/Services/TransStrings.php:259
+msgid "Archieved Sections"
+msgstr ""
+
+#: src/Services/TransStrings.php:260
+msgid "Search archived sections..."
+msgstr ""
+
+#: src/Services/TransStrings.php:261
+msgid "Search archived tasks..."
+msgstr ""
+
+#: src/Services/TransStrings.php:262
+#: src/Services/TransStrings.php:652
+msgid "Assign to"
+msgstr ""
+
+#: src/Services/TransStrings.php:263
+msgid "Filter Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:264
+msgid "Sections"
+msgstr ""
+
+#: src/Services/TransStrings.php:265
+msgid "Select Sections"
+msgstr ""
+
+#: src/Services/TransStrings.php:266
+msgid "Select Priority"
+msgstr ""
+
+#: src/Services/TransStrings.php:267
+msgid "Select Status"
+msgstr ""
+
+#: src/Services/TransStrings.php:268
+msgid "Select"
+msgstr ""
+
+#: src/Services/TransStrings.php:269
+msgid "Reset Filters"
+msgstr ""
+
+#: src/Services/TransStrings.php:270
+msgid "Apply Filters"
+msgstr ""
+
+#: src/Services/TransStrings.php:273
+msgid "General"
+msgstr ""
+
+#: src/Services/TransStrings.php:274
+msgid "Workspace & Projects"
+msgstr ""
+
+#: src/Services/TransStrings.php:275
+msgid "Roles & Permissions"
+msgstr ""
+
+#: src/Services/TransStrings.php:276
+msgid "Notification Templates"
+msgstr ""
+
+#: src/Services/TransStrings.php:278
+msgid "Notification"
+msgstr ""
+
+#: src/Services/TransStrings.php:279
+msgid "General Settings"
+msgstr ""
+
+#: src/Services/TransStrings.php:280
+msgid "Portal Settings"
+msgstr ""
+
+#: src/Services/TransStrings.php:281
+msgid "Roles & Permission"
+msgstr ""
+
+#: src/Services/TransStrings.php:282
+msgid "Manage Tags"
+msgstr ""
+
+#: src/Services/TransStrings.php:283
+msgid "Task Reference No"
+msgstr ""
+
+#: src/Services/TransStrings.php:284
+msgid "Portal Title"
+msgstr ""
+
+#: src/Services/TransStrings.php:285
+msgid "Portal Logo"
+msgstr ""
+
+#: src/Services/TransStrings.php:286
+msgid "Upload Portal Logo"
+msgstr ""
+
+#: src/Services/TransStrings.php:287
+msgid "Image size should be 160 X 160"
+msgstr ""
+
+#: src/Services/TransStrings.php:288
+msgid "Select Timezone"
+msgstr ""
+
+#: src/Services/TransStrings.php:289
+msgid "Enable frontend portal for easy access?"
+msgstr ""
+
+#. translators: %d is the number of project
+#: src/Services/TransStrings.php:291
+#, php-format
+msgid "%d project"
+msgstr ""
+
+#. translators: %d is the number of project
+#: src/Services/TransStrings.php:293
+#, php-format
+msgid "%d projects"
+msgstr ""
+
+#. translators: %s is the string of base url
+#: src/Services/TransStrings.php:295
+#, php-format
+msgid "Frontend Portal URL %s"
+msgstr ""
+
+#: src/Services/TransStrings.php:296
+msgid "Enter Portal Slug"
+msgstr ""
+
+#: src/Services/TransStrings.php:297
+msgid "Notification Settings"
+msgstr ""
+
+#: src/Services/TransStrings.php:298
+msgid "Web App"
+msgstr ""
+
+#: src/Services/TransStrings.php:299
+#: src/Services/TransStrings.php:562
+msgid "Email"
+msgstr ""
+
+#: src/Services/TransStrings.php:300
+msgid "Mobile"
+msgstr ""
+
+#: src/Services/TransStrings.php:301
+msgid "Browser"
+msgstr ""
+
+#: src/Services/TransStrings.php:304
+msgid "Add New Tag"
+msgstr ""
+
+#: src/Services/TransStrings.php:305
+msgid "Tag Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:306
+msgid "+ Add New Role"
+msgstr ""
+
+#: src/Services/TransStrings.php:307
+#: src/Services/TransStrings.php:318
+msgid "Permission"
+msgstr ""
+
+#: src/Services/TransStrings.php:308
+msgid "Create New Role"
+msgstr ""
+
+#: src/Services/TransStrings.php:309
+msgid "Enter role name"
+msgstr ""
+
+#: src/Services/TransStrings.php:310
+msgid "Role Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:311
+msgid "Create Role"
+msgstr ""
+
+#: src/Services/TransStrings.php:314
+msgid "Super Admin"
+msgstr ""
+
+#: src/Services/TransStrings.php:315
+msgid "Admin"
+msgstr ""
+
+#: src/Services/TransStrings.php:316
+msgid "Manager"
+msgstr ""
+
+#: src/Services/TransStrings.php:317
+msgid "Add New Role"
+msgstr ""
+
+#: src/Services/TransStrings.php:319
+msgid "Save Changes"
+msgstr ""
+
+#: src/Services/TransStrings.php:322
+msgid "Confirm Tag Deletion"
+msgstr ""
+
+#: src/Services/TransStrings.php:323
+msgid "This tag is used in tasks. Deleting it will remove the tag from all associated tasks.Are you sure you want to delete this tag?"
+msgstr ""
+
+#: src/Services/TransStrings.php:326
+msgid "Total Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:327
+msgid "Total Assigned Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:328
+msgid "Complete Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:329
+msgid "Tasks Completed"
+msgstr ""
+
+#: src/Services/TransStrings.php:330
+msgid "Pending Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:331
+msgid "Overdue Tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:332
+msgid "Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:333
+msgid "Comp."
+msgstr ""
+
+#: src/Services/TransStrings.php:334
+#: src/Services/TransStrings.php:649
+msgid "Total"
+msgstr ""
+
+#: src/Services/TransStrings.php:335
+msgid "Delete Quick Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:336
+msgid "More..."
+msgstr ""
+
+#: src/Services/TransStrings.php:337
+msgid "No Task Found"
+msgstr ""
+
+#: src/Services/TransStrings.php:338
+msgid "No tasks available"
+msgstr ""
+
+#: src/Services/TransStrings.php:339
+msgid "Tasks In Progress"
+msgstr ""
+
+#: src/Services/TransStrings.php:340
+msgid "Task Distribution Matrix (By Project)"
+msgstr ""
+
+#: src/Services/TransStrings.php:341
+msgid "Priority & Status Overview"
+msgstr ""
+
+#: src/Services/TransStrings.php:342
+msgid "My Projects"
+msgstr ""
+
+#: src/Services/TransStrings.php:343
+msgid "Recent Activities"
+msgstr ""
+
+#: src/Services/TransStrings.php:344
+msgid "No recent activities found."
+msgstr ""
+
+#: src/Services/TransStrings.php:345
+msgid "User Engagement Scatter Plot"
+msgstr ""
+
+#: src/Services/TransStrings.php:348
+msgid "Have something in mind? Thinking of something?"
+msgstr ""
+
+#: src/Services/TransStrings.php:349
+msgid "Jot it down here quickly before you forget."
+msgstr ""
+
+#: src/Services/TransStrings.php:350
+msgid "Ensure every task, note, or idea is safely recorded!"
+msgstr ""
+
+#: src/Services/TransStrings.php:351
+msgid "Convert it to a full blown task later at your convenience."
+msgstr ""
+
+#: src/Services/TransStrings.php:352
+msgid "Happy Tasking 🚀"
+msgstr ""
+
+#: src/Services/TransStrings.php:354
+msgid "Enter Task Title"
+msgstr ""
+
+#: src/Services/TransStrings.php:355
+msgid "Are you Sure to delete this quick task ?"
+msgstr ""
+
+#: src/Services/TransStrings.php:358
+msgid "You are parmanently deleting this quick task"
+msgstr ""
+
+#: src/Services/TransStrings.php:359
+msgid "Are you Sure?"
+msgstr ""
+
+#: src/Services/TransStrings.php:360
+msgid "Yes"
+msgstr ""
+
+#: src/Services/TransStrings.php:361
+msgid "No"
+msgstr ""
+
+#: src/Services/TransStrings.php:362
+msgid "Okay"
+msgstr ""
+
+#: src/Services/TransStrings.php:365
+msgid "Day"
+msgstr ""
+
+#: src/Services/TransStrings.php:366
+msgid "Week"
+msgstr ""
+
+#: src/Services/TransStrings.php:367
+msgid "Month"
+msgstr ""
+
+#: src/Services/TransStrings.php:370
+msgid "+ Add Section"
+msgstr ""
+
+#: src/Services/TransStrings.php:371
+msgid "+ Add Subtask"
+msgstr ""
+
+#: src/Services/TransStrings.php:372
+msgid "Add Section"
+msgstr ""
+
+#: src/Services/TransStrings.php:373
+msgid "You are archiving this section all task"
+msgstr ""
+
+#: src/Services/TransStrings.php:374
+msgid "Are you sure you want to archive this section all task?"
+msgstr ""
+
+#: src/Services/TransStrings.php:375
+msgid "Confirm"
+msgstr ""
+
+#: src/Services/TransStrings.php:376
+msgid "This section is currently marked as complete"
+msgstr ""
+
+#: src/Services/TransStrings.php:377
+msgid "You are archiving this section"
+msgstr ""
+
+#: src/Services/TransStrings.php:378
+msgid "Are you sure you want to archive this section?"
+msgstr ""
+
+#: src/Services/TransStrings.php:379
+msgid "You are parmanently deleting this section"
+msgstr ""
+
+#: src/Services/TransStrings.php:380
+msgid "Are you sure you want to delete this section?"
+msgstr ""
+
+#: src/Services/TransStrings.php:381
+msgid "Are you sure you want to convert this subtask as task?"
+msgstr ""
+
+#: src/Services/TransStrings.php:384
+msgid "Start Date"
+msgstr ""
+
+#: src/Services/TransStrings.php:386
+msgid "Save"
+msgstr ""
+
+#: src/Services/TransStrings.php:387
+msgid "Clear"
+msgstr ""
+
+#: src/Services/TransStrings.php:388
+msgid "+ Create"
+msgstr ""
+
+#: src/Services/TransStrings.php:389
+msgid "Use Date Range"
+msgstr ""
+
+#: src/Services/TransStrings.php:392
+msgid "You are parmanently deleting this priority"
+msgstr ""
+
+#: src/Services/TransStrings.php:393
+msgid "Are you sure you want to delete this priority?"
+msgstr ""
+
+#: src/Services/TransStrings.php:394
+msgid "You are parmanently deleting this status"
+msgstr ""
+
+#: src/Services/TransStrings.php:395
+msgid "Are you sure you want to delete this status?"
+msgstr ""
+
+#. translators: %d is the number of tags
+#: src/Services/TransStrings.php:398
+#, php-format
+msgid "More (%d)"
+msgstr ""
+
+#: src/Services/TransStrings.php:399
+msgid "Pick tag from list"
+msgstr ""
+
+#: src/Services/TransStrings.php:402
+msgid "Only Comments"
+msgstr ""
+
+#: src/Services/TransStrings.php:403
+msgid "Only Activities"
+msgstr ""
+
+#: src/Services/TransStrings.php:404
+msgid "Comments & Activities"
+msgstr ""
+
+#: src/Services/TransStrings.php:405
+msgid "Comment"
+msgstr ""
+
+#: src/Services/TransStrings.php:406
+msgid "No Activities"
+msgstr ""
+
+#: src/Services/TransStrings.php:407
+msgid "Not found..."
+msgstr ""
+
+#: src/Services/TransStrings.php:408
+msgid "Are you sure this comment delete?"
+msgstr ""
+
+#: src/Services/TransStrings.php:409
+msgid "You are parmanently deleting this comment"
+msgstr ""
+
+#: src/Services/TransStrings.php:413
+msgid "Workspaces"
+msgstr ""
+
+#: src/Services/TransStrings.php:414
+msgid "Projects"
+msgstr ""
+
+#: src/Services/TransStrings.php:415
+msgid "Members"
+msgstr ""
+
+#: src/Services/TransStrings.php:416
+msgid "Create Workspace"
+msgstr ""
+
+#: src/Services/TransStrings.php:417
+msgid "Create Project"
+msgstr ""
+
+#: src/Services/TransStrings.php:418
+msgid "Add Member"
+msgstr ""
+
+#: src/Services/TransStrings.php:419
+msgid "Workspace name"
+msgstr ""
+
+#: src/Services/TransStrings.php:420
+msgid "You are parmanently deleting this workspace"
+msgstr ""
+
+#: src/Services/TransStrings.php:421
+msgid "Are you sure you want to delete this workspace?"
+msgstr ""
+
+#: src/Services/TransStrings.php:422
+msgid "Edit Project"
+msgstr ""
+
+#: src/Services/TransStrings.php:423
+msgid "Wordpress Users"
+msgstr ""
+
+#: src/Services/TransStrings.php:424
+msgid "Added"
+msgstr ""
+
+#: src/Services/TransStrings.php:425
+msgid "Template List"
+msgstr ""
+
+#: src/Services/TransStrings.php:426
+msgid "You haven't been assigned to a specific workspace or project yet."
+msgstr ""
+
+#: src/Services/TransStrings.php:429
+msgid "SMTP Configuration"
+msgstr ""
+
+#: src/Services/TransStrings.php:430
+msgid "SMTP Mode"
+msgstr ""
+
+#: src/Services/TransStrings.php:431
+msgid "Use Wordpress default"
+msgstr ""
+
+#: src/Services/TransStrings.php:432
+msgid "Use this SMTP"
+msgstr ""
+
+#: src/Services/TransStrings.php:433
+msgid "WordPress default mailer will be used for notifications."
+msgstr ""
+
+#: src/Services/TransStrings.php:434
+msgid "SMTP SMTP Host"
+msgstr ""
+
+#: src/Services/TransStrings.php:435
+msgid "Enter host"
+msgstr ""
+
+#: src/Services/TransStrings.php:436
+msgid "Username"
+msgstr ""
+
+#: src/Services/TransStrings.php:437
+msgid "Enter Username"
+msgstr ""
+
+#: src/Services/TransStrings.php:438
+msgid "Password"
+msgstr ""
+
+#: src/Services/TransStrings.php:439
+msgid "Enter Password"
+msgstr ""
+
+#: src/Services/TransStrings.php:441
+msgid "Enter Sender Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:442
+msgid "Sender Email"
+msgstr ""
+
+#: src/Services/TransStrings.php:443
+msgid "Enter Sender Email"
+msgstr ""
+
+#: src/Services/TransStrings.php:444
+msgid "SMTP Port"
+msgstr ""
+
+#: src/Services/TransStrings.php:445
+msgid "Enter SMTP Port"
+msgstr ""
+
+#: src/Services/TransStrings.php:446
+msgid "SMS Configuration"
+msgstr ""
+
+#: src/Services/TransStrings.php:447
+msgid "Recommended Plugin WP SMS is active"
+msgstr ""
+
+#: src/Services/TransStrings.php:448
+msgid "Recommended Plugin WP SMS is not installed"
+msgstr ""
+
+#: src/Services/TransStrings.php:449
+msgid "SMS Notifications"
+msgstr ""
+
+#: src/Services/TransStrings.php:450
+msgid "Send SMS notifications to users for various events."
+msgstr ""
+
+#: src/Services/TransStrings.php:451
+msgid "Firebase Configuration"
+msgstr ""
+
+#: src/Services/TransStrings.php:452
+msgid "SMTP Notifications"
+msgstr ""
+
+#: src/Services/TransStrings.php:453
+msgid "Send Email notifications to users for various events."
+msgstr ""
+
+#: src/Services/TransStrings.php:456
+msgid "Title"
+msgstr ""
+
+#: src/Services/TransStrings.php:457
+msgid "Channel"
+msgstr ""
+
+#: src/Services/TransStrings.php:458
+msgid "Do action hook"
+msgstr ""
+
+#: src/Services/TransStrings.php:459
+msgid "Add New Notification Template"
+msgstr ""
+
+#: src/Services/TransStrings.php:460
+msgid "Create Template"
+msgstr ""
+
+#: src/Services/TransStrings.php:461
+msgid "Update Template"
+msgstr ""
+
+#: src/Services/TransStrings.php:462
+msgid "Enable/Disable"
+msgstr ""
+
+#. translators: %s is the string of channel name
+#: src/Services/TransStrings.php:464
+#, php-format
+msgid "Enter %s content here"
+msgstr ""
+
+#: src/Services/TransStrings.php:465
+msgid "Email subject"
+msgstr ""
+
+#: src/Services/TransStrings.php:466
+msgid "Enter email subject"
+msgstr ""
+
+#: src/Services/TransStrings.php:467
+msgid "Notification title"
+msgstr ""
+
+#: src/Services/TransStrings.php:468
+msgid "Enter notification title"
+msgstr ""
+
+#: src/Services/TransStrings.php:469
+msgid "Message body"
+msgstr ""
+
+#: src/Services/TransStrings.php:470
+msgid "Template Variables"
+msgstr ""
+
+#: src/Services/TransStrings.php:471
+msgid "NAME"
+msgstr ""
+
+#: src/Services/TransStrings.php:472
+msgid "User's Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:473
+msgid "USERNAME"
+msgstr ""
+
+#: src/Services/TransStrings.php:474
+msgid "USERNAME (login credentials)"
+msgstr ""
+
+#: src/Services/TransStrings.php:475
+msgid "LOGIN_URL"
+msgstr ""
+
+#: src/Services/TransStrings.php:476
+msgid "The sign-in link for the app or workspace"
+msgstr ""
+
+#: src/Services/TransStrings.php:477
+msgid "PASSWORD"
+msgstr ""
+
+#: src/Services/TransStrings.php:478
+msgid "PASSWORD (login credentials)"
+msgstr ""
+
+#: src/Services/TransStrings.php:479
+msgid "MEMBER_NAME"
+msgstr ""
+
+#: src/Services/TransStrings.php:480
+msgid "Member Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:481
+msgid "COMPANY_NAME"
+msgstr ""
+
+#: src/Services/TransStrings.php:482
+msgid "Workspace Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:483
+msgid "PROJECT_NAME"
+msgstr ""
+
+#: src/Services/TransStrings.php:484
+msgid "Project Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:485
+msgid "CREATOR_NAME"
+msgstr ""
+
+#: src/Services/TransStrings.php:486
+msgid "Creator Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:487
+msgid "MEMBER_ROLES"
+msgstr ""
+
+#: src/Services/TransStrings.php:488
+msgid "Member Role"
+msgstr ""
+
+#: src/Services/TransStrings.php:489
+msgid "TASK_NAME"
+msgstr ""
+
+#: src/Services/TransStrings.php:490
+msgid "Task Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:491
+msgid "PREVIOUS_ASSIGNED_DATE"
+msgstr ""
+
+#: src/Services/TransStrings.php:492
+msgid "Previous Assigned Date"
+msgstr ""
+
+#: src/Services/TransStrings.php:493
+msgid "NEW_ASSIGNED_DATE"
+msgstr ""
+
+#: src/Services/TransStrings.php:494
+msgid "New Assigned Date"
+msgstr ""
+
+#: src/Services/TransStrings.php:495
+msgid "Do action title"
+msgstr ""
+
+#: src/Services/TransStrings.php:496
+msgid "Enter your title"
+msgstr ""
+
+#: src/Services/TransStrings.php:497
+msgid "Do action (hook)"
+msgstr ""
+
+#: src/Services/TransStrings.php:498
+msgid "Enter action name"
+msgstr ""
+
+#: src/Services/TransStrings.php:501
+msgid "Unread"
+msgstr ""
+
+#: src/Services/TransStrings.php:503
+msgid "Mark all as read"
+msgstr ""
+
+#: src/Services/TransStrings.php:504
+msgid "just now"
+msgstr ""
+
+#: src/Services/TransStrings.php:505
+msgid "minute ago"
+msgstr ""
+
+#: src/Services/TransStrings.php:506
+msgid "minutes ago"
+msgstr ""
+
+#: src/Services/TransStrings.php:507
+msgid "hour ago"
+msgstr ""
+
+#: src/Services/TransStrings.php:508
+msgid "hours ago"
+msgstr ""
+
+#: src/Services/TransStrings.php:509
+msgid "day ago"
+msgstr ""
+
+#: src/Services/TransStrings.php:510
+msgid "days ago"
+msgstr ""
+
+#: src/Services/TransStrings.php:511
+msgid "month ago"
+msgstr ""
+
+#: src/Services/TransStrings.php:512
+msgid "months ago"
+msgstr ""
+
+#: src/Services/TransStrings.php:513
+msgid "year ago"
+msgstr ""
+
+#: src/Services/TransStrings.php:514
+msgid "years ago"
+msgstr ""
+
+#: src/Services/TransStrings.php:517
+msgid "Make Private"
+msgstr ""
+
+#: src/Services/TransStrings.php:518
+msgid "Make Public"
+msgstr ""
+
+#: src/Services/TransStrings.php:521
+msgid "Duplicate Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:522
+msgid "Duplicate Section"
+msgstr ""
+
+#: src/Services/TransStrings.php:525
+msgid "Addons"
+msgstr ""
+
+#: src/Services/TransStrings.php:526
+msgid "LazyTasks Whiteboard"
+msgstr ""
+
+#: src/Services/TransStrings.php:527
+msgid "Add a collaborative whiteboard to your task management plugin for visual brainstorming and real-time teamwork."
+msgstr ""
+
+#: src/Services/TransStrings.php:528
+msgid "Install & Activate Whiteboard"
+msgstr ""
+
+#: src/Services/TransStrings.php:529
+msgid "Activate Addon"
+msgstr ""
+
+#: src/Services/TransStrings.php:530
+msgid "Activate Social Login"
+msgstr ""
+
+#: src/Services/TransStrings.php:531
+msgid "Deactivate Whiteboard"
+msgstr ""
+
+#: src/Services/TransStrings.php:532
+msgid "LazyTasks Social Login"
+msgstr ""
+
+#: src/Services/TransStrings.php:533
+msgid "Enable users to log in using their social media accounts, simplifying the authentication process and enhancing user experience."
+msgstr ""
+
+#: src/Services/TransStrings.php:534
+msgid "You do not have permission to deactivate addons."
+msgstr ""
+
+#: src/Services/TransStrings.php:535
+msgid "Please contact your administrator to deactivate the addon."
+msgstr ""
+
+#: src/Services/TransStrings.php:536
+msgid "Please activate social login from Addons"
+msgstr ""
+
+#: src/Services/TransStrings.php:537
+msgid "Install LazyTasks Whiteboard Addons"
+msgstr ""
+
+#: src/Services/TransStrings.php:540
+msgid "Social Login"
+msgstr ""
+
+#: src/Services/TransStrings.php:541
+msgid "Google Login"
+msgstr ""
+
+#: src/Services/TransStrings.php:542
+msgid "Login with Google"
+msgstr ""
+
+#: src/Services/TransStrings.php:543
+msgid "Enable users to log in using their Google account."
+msgstr ""
+
+#: src/Services/TransStrings.php:544
+msgid "Client ID"
+msgstr ""
+
+#: src/Services/TransStrings.php:545
+msgid "Enter Client ID"
+msgstr ""
+
+#: src/Services/TransStrings.php:546
+msgid "Client Secret"
+msgstr ""
+
+#: src/Services/TransStrings.php:547
+msgid "Enter Client Secret"
+msgstr ""
+
+#: src/Services/TransStrings.php:548
+msgid "Login with Facebook"
+msgstr ""
+
+#: src/Services/TransStrings.php:549
+msgid "Enable users to log in using their Facebook account."
+msgstr ""
+
+#: src/Services/TransStrings.php:550
+msgid "Login with LinkedIn"
+msgstr ""
+
+#: src/Services/TransStrings.php:551
+msgid "Enable users to log in using their LinkedIn account."
+msgstr ""
+
+#: src/Services/TransStrings.php:552
+msgid "Deactivate Social Login"
+msgstr ""
+
+#: src/Services/TransStrings.php:556
+msgid "Upload Profile Picture"
+msgstr ""
+
+#: src/Services/TransStrings.php:557
+msgid "Image size should be 100 X 100"
+msgstr ""
+
+#: src/Services/TransStrings.php:558
+msgid "First Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:559
+msgid "Last Name"
+msgstr ""
+
+#: src/Services/TransStrings.php:560
+msgid "Select Role"
+msgstr ""
+
+#: src/Services/TransStrings.php:561
+msgid "Phone"
+msgstr ""
+
+#: src/Services/TransStrings.php:563
+msgid "Edit Profile"
+msgstr ""
+
+#: src/Services/TransStrings.php:564
+msgid "Change Password"
+msgstr ""
+
+#: src/Services/TransStrings.php:565
+msgid "Current Password"
+msgstr ""
+
+#: src/Services/TransStrings.php:566
+msgid "New Password"
+msgstr ""
+
+#: src/Services/TransStrings.php:567
+msgid "Confirm Password"
+msgstr ""
+
+#: src/Services/TransStrings.php:568
+msgid "Update Password"
+msgstr ""
+
+#: src/Services/TransStrings.php:569
+msgid "Edit Member"
+msgstr ""
+
+#: src/Services/TransStrings.php:570
+msgid "Reset Password"
+msgstr ""
+
+#: src/Services/TransStrings.php:571
+msgid "First name is required"
+msgstr ""
+
+#: src/Services/TransStrings.php:572
+msgid "Last name is required"
+msgstr ""
+
+#: src/Services/TransStrings.php:573
+msgid "Email is required"
+msgstr ""
+
+#: src/Services/TransStrings.php:574
+msgid "Invalid email"
+msgstr ""
+
+#: src/Services/TransStrings.php:575
+msgid "Invalid phone number"
+msgstr ""
+
+#: src/Services/TransStrings.php:578
+msgid "Default"
+msgstr ""
+
+#: src/Services/TransStrings.php:579
+msgid "Configure Project Tabs"
+msgstr ""
+
+#: src/Services/TransStrings.php:580
+msgid "Manage your project tasks in a detailed list view."
+msgstr ""
+
+#: src/Services/TransStrings.php:581
+msgid "Organize your tasks with a Kanban-style board."
+msgstr ""
+
+#: src/Services/TransStrings.php:582
+msgid "View your tasks on a calendar to track deadlines."
+msgstr ""
+
+#: src/Services/TransStrings.php:583
+msgid "Plan and schedule your project with a Gantt chart."
+msgstr ""
+
+#: src/Services/TransStrings.php:584
+msgid "Visualize your project tasks on a whiteboard."
+msgstr ""
+
+#: src/Services/TransStrings.php:585
+msgid "Swimlanes to organize and streamline tasks"
+msgstr ""
+
+#: src/Services/TransStrings.php:586
+msgid "You do not have permission to configure project tabs."
+msgstr ""
+
+#: src/Services/TransStrings.php:587
+msgid "Organize tasks into swimlanes for better workflow management."
+msgstr ""
+
+#: src/Services/TransStrings.php:590
+msgid "Archive Project"
+msgstr ""
+
+#: src/Services/TransStrings.php:591
+msgid "Are you sure you want to archive this project?"
+msgstr ""
+
+#: src/Services/TransStrings.php:592
+msgid "This project is archived"
+msgstr ""
+
+#: src/Services/TransStrings.php:593
+msgid "Unarchive Project"
+msgstr ""
+
+#: src/Services/TransStrings.php:594
+msgid "Are you sure you want to unarchive this project?"
+msgstr ""
+
+#: src/Services/TransStrings.php:597
+msgid "Critical"
+msgstr ""
+
+#: src/Services/TransStrings.php:598
+msgid "High"
+msgstr ""
+
+#: src/Services/TransStrings.php:599
+msgid "Medium"
+msgstr ""
+
+#: src/Services/TransStrings.php:600
+msgid "Low"
+msgstr ""
+
+#: src/Services/TransStrings.php:602
+msgid "In Progress"
+msgstr ""
+
+#: src/Services/TransStrings.php:606
+msgid "How to download and connect “LazyTasks” mobile app with installed plugin"
+msgstr ""
+
+#: src/Services/TransStrings.php:607
+msgid "Welcome to LazyTasks Premium"
+msgstr ""
+
+#: src/Services/TransStrings.php:608
+msgid "Activate Your Free Trial!"
+msgstr ""
+
+#: src/Services/TransStrings.php:609
+msgid "Go Premium. Go Mobile."
+msgstr ""
+
+#: src/Services/TransStrings.php:610
+msgid "Upgrade now to use the iOS & Android apps fully, get real-time task updates, and organize projects more effectively across your team on-the-go."
+msgstr ""
+
+#: src/Services/TransStrings.php:611
+msgid "Visit us at"
+msgstr ""
+
+#: src/Services/TransStrings.php:612
+msgid "Activate Premium Access"
+msgstr ""
+
+#: src/Services/TransStrings.php:613
+msgid "Your trial is about to expire"
+msgstr ""
+
+#: src/Services/TransStrings.php:614
+msgid "Purchase Now"
+msgstr ""
+
+#: src/Services/TransStrings.php:615
+msgid "Power Up Your Productivity Through LazyTasks Mobile"
+msgstr ""
+
+#: src/Services/TransStrings.php:616
+msgid "Download LazyTasks Mobile App"
+msgstr ""
+
+#: src/Services/TransStrings.php:617
+msgid "Connect Your LazyTasks Mobile App"
+msgstr ""
+
+#: src/Services/TransStrings.php:620
+msgid "Remove?"
+msgstr ""
+
+#: src/Services/TransStrings.php:621
+msgid "Are you sure you want to remove from this project?"
+msgstr ""
+
+#: src/Services/TransStrings.php:622
+msgid "This action cannot be undone"
+msgstr ""
+
+#: src/Services/TransStrings.php:624
+msgid "You do not have permission to manage priorities."
+msgstr ""
+
+#: src/Services/TransStrings.php:625
+msgid "You do not have permission to manage statuses."
+msgstr ""
+
+#: src/Services/TransStrings.php:626
+msgid "No members found"
+msgstr ""
+
+#: src/Services/TransStrings.php:627
+msgid "Pro Feature"
+msgstr ""
+
+#: src/Services/TransStrings.php:628
+msgid "Firebase Notifications"
+msgstr ""
+
+#: src/Services/TransStrings.php:630
+msgid "Client Email"
+msgstr ""
+
+#: src/Services/TransStrings.php:631
+msgid "Enter Client Email"
+msgstr ""
+
+#: src/Services/TransStrings.php:632
+msgid "Private Key"
+msgstr ""
+
+#: src/Services/TransStrings.php:633
+msgid "Enter Private Key"
+msgstr ""
+
+#: src/Services/TransStrings.php:634
+msgid "Permissions Updated"
+msgstr ""
+
+#: src/Services/TransStrings.php:635
+msgid "The permissions have been applied."
+msgstr ""
+
+#: src/Services/TransStrings.php:636
+msgid "The users have to login again for it to take effect."
+msgstr ""
+
+#: src/Services/TransStrings.php:637
+msgid "Please advice your users accordingly."
+msgstr ""
+
+#: src/Services/TransStrings.php:640
+msgid "Server List"
+msgstr ""
+
+#: src/Services/TransStrings.php:641
+msgid "Scan QR Code"
+msgstr ""
+
+#: src/Services/TransStrings.php:642
+msgid "Add server via QR Code"
+msgstr ""
+
+#: src/Services/TransStrings.php:643
+msgid "Point your camera at a QR code to instantly add a new Server"
+msgstr ""
+
+#: src/Services/TransStrings.php:644
+msgid "View more"
+msgstr ""
+
+#: src/Services/TransStrings.php:645
+msgid "Completed Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:646
+msgid "Pending Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:647
+msgid "Overdue Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:648
+msgid "Total Task"
+msgstr ""
+
+#: src/Services/TransStrings.php:650
+msgid "Name Active Completed"
+msgstr ""
+
+#: src/Services/TransStrings.php:651
+msgid "Write a task name"
+msgstr ""
+
+#: src/Services/TransStrings.php:653
+msgid "Description"
+msgstr ""
+
+#: src/Services/TransStrings.php:654
+msgid "Write a subtask name"
+msgstr ""
+
+#: src/Services/TransStrings.php:655
+msgid "Attachment"
+msgstr ""
+
+#: src/Services/TransStrings.php:656
+msgid "No due date"
+msgstr ""
+
+#: src/Services/TransStrings.php:657
+msgid "Task updated successfully"
+msgstr ""
+
+#: src/Services/TransStrings.php:658
+msgid "No match found"
+msgstr ""
+
+#: src/Services/TransStrings.php:659
+msgid "Close"
+msgstr ""

@@ -1,0 +1,534 @@
+{
+    "projectInfo": {
+      "id": "1",
+      "name": "PUL HQ",
+      "slug": "pul-hq",
+      "status": "1",
+      "members": [
+        {
+          "id": "1",
+          "name": "rakeybulhasan",
+          "email": "rakeybulhasan@rightbrainsolution.com",
+          "username": "rakeybulhasan",
+          "created_at": "2024-01-17 06:09:28",
+          "avatar": ""
+        },
+        {
+          "id": "2",
+          "name": "Rushaeid Hasan",
+          "email": "rushaeidhasan@gmail.com",
+          "username": "rushaeidhasan",
+          "created_at": "2024-01-21 12:29:46",
+          "avatar": ""
+        }
+      ],
+      "parent": {
+        "id": "1",
+        "owner_id": "1",
+        "name": "Prokaushal Upodesta Ltd.",
+        "slug": "prokaushal-upodesta-ltd",
+        "code": "01",
+        "short_name": "PUL",
+        "address": "PUL Tower, Sector-14, Uttara, Dhaka",
+        "status": "1",
+        "sort_order": "9999",
+        "created_at": "2024-01-29 17:45:06",
+        "updated_at": null,
+        "deleted_at": null,
+        "members": [
+          {
+            "id": "1",
+            "name": "rakeybulhasan",
+            "email": "rakeybulhasan@rightbrainsolution.com",
+            "username": "rakeybulhasan",
+            "created_at": "2024-01-17 06:09:28",
+            "avatar": ""
+          }
+        ]
+      }
+    },
+    "projectPriorities": [
+      {
+        "id": "1",
+        "name": "Low",
+        "project_id": "1",
+        "color_code": "",
+        "sort_order": "1"
+      },
+      {
+        "id": "2",
+        "name": "Medium",
+        "project_id": "1",
+        "color_code": "",
+        "sort_order": "1"
+      },
+      {
+        "id": "3",
+        "name": "High",
+        "project_id": "1",
+        "color_code": "",
+        "sort_order": "1"
+      }
+    ],
+    "taskSections": [
+      "to-do",
+      "work-in-progress",
+      "complete"
+    ],
+    "taskListSectionsName": {
+      "to-do": {
+        "id": "1",
+        "name": "To Do",
+        "slug": "to-do",
+        "sort_order": "1"
+      },
+      "work-in-progress": {
+        "id": "2",
+        "name": "Work In Progress",
+        "slug": "work-in-progress",
+        "sort_order": "1"
+      },
+      "complete": {
+        "id": "9",
+        "name": "Complete",
+        "slug": "complete",
+        "sort_order": "1"
+      }
+    },
+    "tasks": {
+      "work-in-progress": [
+        {
+          "id": "11",
+          "project_id": "1",
+          "task_section_id": "2",
+          "name": "Task Two",
+          "slug": "task-two-7",
+          "description": "Task Two",
+          "sort_order": "1",
+          "assigned_to": {
+            "id": "2",
+            "name": "Rushaeid Hasan",
+            "email": "rushaeidhasan@gmail.com",
+            "username": "rushaeidhasan",
+            "created_at": "2024-01-21 12:29:46",
+            "avatar": ""
+          },
+          "start_date": null,
+          "end_date": null,
+          "status": "ACTIVE",
+          "priority_id": "1",
+          "priority": {
+            "id": "1",
+            "name": "Low",
+            "project_id": "1",
+            "color_code": "",
+            "sort_order": "1"
+          },
+          "parent": null,
+          "created_at": "2024-01-27 10:27:16",
+          "updated_at": null,
+          "members": [],
+          "children": []
+        },
+        {
+          "id": "20",
+          "project_id": "1",
+          "task_section_id": "2",
+          "name": "Task Three",
+          "slug": "task-three-1",
+          "description": "Task Two Three",
+          "sort_order": "1",
+          "assigned_to": {
+            "id": "2",
+            "name": "Rushaeid Hasan",
+            "email": "rushaeidhasan@gmail.com",
+            "username": "rushaeidhasan",
+            "created_at": "2024-01-21 12:29:46",
+            "avatar": ""
+          },
+          "start_date": null,
+          "end_date": null,
+          "status": "ACTIVE",
+          "priority_id": "1",
+          "priority": {
+            "id": "1",
+            "name": "Low",
+            "project_id": "1",
+            "color_code": "",
+            "sort_order": "1"
+          },
+          "parent": null,
+          "created_at": "2024-01-31 11:05:43",
+          "updated_at": null,
+          "members": [
+            {
+              "id": "2",
+              "name": "Rushaeid Hasan",
+              "email": "rushaeidhasan@gmail.com",
+              "username": "rushaeidhasan",
+              "created_at": "2024-01-21 12:29:46",
+              "avatar": ""
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "15",
+          "project_id": "1",
+          "task_section_id": "2",
+          "name": "Task Two",
+          "slug": "task-two-11",
+          "description": "Task Two",
+          "sort_order": "1",
+          "assigned_to": {
+            "id": "2",
+            "name": "Rushaeid Hasan",
+            "email": "rushaeidhasan@gmail.com",
+            "username": "rushaeidhasan",
+            "created_at": "2024-01-21 12:29:46",
+            "avatar": ""
+          },
+          "start_date": null,
+          "end_date": null,
+          "status": "ACTIVE",
+          "priority_id": "1",
+          "priority": {
+            "id": "1",
+            "name": "Low",
+            "project_id": "1",
+            "color_code": "",
+            "sort_order": "1"
+          },
+          "parent": null,
+          "created_at": "2024-01-27 11:03:30",
+          "updated_at": null,
+          "members": [],
+          "children": [
+            {
+              "id": "22",
+              "task_section_id": "2",
+              "name": "Task Four",
+              "slug": "task-four-1",
+              "description": "Task Four",
+              "sort_order": "1",
+              "assigned_to": {
+                "id": "2",
+                "name": "Rushaeid Hasan",
+                "email": "rushaeidhasan@gmail.com",
+                "username": "rushaeidhasan",
+                "created_at": "2024-01-21 12:29:46",
+                "avatar": ""
+              },
+              "start_date": null,
+              "end_date": null,
+              "status": "ACTIVE",
+              "priority_id": "1",
+              "priority": {
+                "id": "1",
+                "name": "Low",
+                "project_id": "1",
+                "color_code": "",
+                "sort_order": "1"
+              },
+              "parent": {
+                "id": "15",
+                "name": "Task Two",
+                "slug": "task-two-11",
+                "description": "Task Two"
+              },
+              "created_at": "2024-01-31 11:08:26",
+              "updated_at": null,
+              "members": [
+                {
+                  "id": "2",
+                  "name": "Rushaeid Hasan",
+                  "email": "rushaeidhasan@gmail.com",
+                  "username": "rushaeidhasan",
+                  "created_at": "2024-01-21 12:29:46",
+                  "avatar": ""
+                }
+              ]
+            },
+            {
+              "id": "21",
+              "task_section_id": "2",
+              "name": "Task Four",
+              "slug": "task-four",
+              "description": "Task Four",
+              "sort_order": "1",
+              "assigned_to": {
+                "id": "2",
+                "name": "Rushaeid Hasan",
+                "email": "rushaeidhasan@gmail.com",
+                "username": "rushaeidhasan",
+                "created_at": "2024-01-21 12:29:46",
+                "avatar": ""
+              },
+              "start_date": null,
+              "end_date": null,
+              "status": "ACTIVE",
+              "priority_id": "1",
+              "priority": {
+                "id": "1",
+                "name": "Low",
+                "project_id": "1",
+                "color_code": "",
+                "sort_order": "1"
+              },
+              "parent": {
+                "id": "15",
+                "name": "Task Two",
+                "slug": "task-two-11",
+                "description": "Task Two"
+              },
+              "created_at": "2024-01-31 11:06:02",
+              "updated_at": null,
+              "members": [
+                {
+                  "id": "2",
+                  "name": "Rushaeid Hasan",
+                  "email": "rushaeidhasan@gmail.com",
+                  "username": "rushaeidhasan",
+                  "created_at": "2024-01-21 12:29:46",
+                  "avatar": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "project_id": "1",
+          "task_section_id": "2",
+          "name": "Task Two",
+          "slug": "task-two-10",
+          "description": "Task Two",
+          "sort_order": "1",
+          "assigned_to": {
+            "id": "2",
+            "name": "Rushaeid Hasan",
+            "email": "rushaeidhasan@gmail.com",
+            "username": "rushaeidhasan",
+            "created_at": "2024-01-21 12:29:46",
+            "avatar": ""
+          },
+          "start_date": null,
+          "end_date": null,
+          "status": "ACTIVE",
+          "priority_id": "1",
+          "priority": {
+            "id": "1",
+            "name": "Low",
+            "project_id": "1",
+            "color_code": "",
+            "sort_order": "1"
+          },
+          "parent": null,
+          "created_at": "2024-01-27 11:02:37",
+          "updated_at": null,
+          "members": [],
+          "children": []
+        },
+        {
+          "id": "13",
+          "project_id": "1",
+          "task_section_id": "2",
+          "name": "Task Two",
+          "slug": "task-two-9",
+          "description": "Task Two",
+          "sort_order": "1",
+          "assigned_to": {
+            "id": "2",
+            "name": "Rushaeid Hasan",
+            "email": "rushaeidhasan@gmail.com",
+            "username": "rushaeidhasan",
+            "created_at": "2024-01-21 12:29:46",
+            "avatar": ""
+          },
+          "start_date": null,
+          "end_date": null,
+          "status": "ACTIVE",
+          "priority_id": "1",
+          "priority": {
+            "id": "1",
+            "name": "Low",
+            "project_id": "1",
+            "color_code": "",
+            "sort_order": "1"
+          },
+          "parent": null,
+          "created_at": "2024-01-27 11:02:01",
+          "updated_at": null,
+          "members": [
+            {
+              "id": "2",
+              "name": "Rushaeid Hasan",
+              "email": "rushaeidhasan@gmail.com",
+              "username": "rushaeidhasan",
+              "created_at": "2024-01-21 12:29:46",
+              "avatar": ""
+            }
+          ],
+          "children": [
+            {
+              "id": "19",
+              "task_section_id": "2",
+              "name": "Task Two",
+              "slug": "task-two-13",
+              "description": "Task Two",
+              "sort_order": "1",
+              "assigned_to": {
+                "id": "2",
+                "name": "Rushaeid Hasan",
+                "email": "rushaeidhasan@gmail.com",
+                "username": "rushaeidhasan",
+                "created_at": "2024-01-21 12:29:46",
+                "avatar": ""
+              },
+              "start_date": null,
+              "end_date": null,
+              "status": "ACTIVE",
+              "priority_id": "1",
+              "priority": {
+                "id": "1",
+                "name": "Low",
+                "project_id": "1",
+                "color_code": "",
+                "sort_order": "1"
+              },
+              "parent": {
+                "id": "13",
+                "name": "Task Two",
+                "slug": "task-two-9",
+                "description": "Task Two"
+              },
+              "created_at": "2024-01-27 12:47:04",
+              "updated_at": null,
+              "members": [
+                {
+                  "id": "2",
+                  "name": "Rushaeid Hasan",
+                  "email": "rushaeidhasan@gmail.com",
+                  "username": "rushaeidhasan",
+                  "created_at": "2024-01-21 12:29:46",
+                  "avatar": ""
+                }
+              ]
+            },
+            {
+              "id": "18",
+              "task_section_id": "2",
+              "name": "Task Two",
+              "slug": "task-two-12",
+              "description": "Task Two",
+              "sort_order": "1",
+              "assigned_to": {
+                "id": "2",
+                "name": "Rushaeid Hasan",
+                "email": "rushaeidhasan@gmail.com",
+                "username": "rushaeidhasan",
+                "created_at": "2024-01-21 12:29:46",
+                "avatar": ""
+              },
+              "start_date": null,
+              "end_date": null,
+              "status": "ACTIVE",
+              "priority_id": "1",
+              "priority": {
+                "id": "1",
+                "name": "Low",
+                "project_id": "1",
+                "color_code": "",
+                "sort_order": "1"
+              },
+              "parent": {
+                "id": "13",
+                "name": "Task Two",
+                "slug": "task-two-9",
+                "description": "Task Two"
+              },
+              "created_at": "2024-01-27 11:10:49",
+              "updated_at": null,
+              "members": [
+                {
+                  "id": "2",
+                  "name": "Rushaeid Hasan",
+                  "email": "rushaeidhasan@gmail.com",
+                  "username": "rushaeidhasan",
+                  "created_at": "2024-01-21 12:29:46",
+                  "avatar": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "project_id": "1",
+          "task_section_id": "2",
+          "name": "Task Two",
+          "slug": "task-two-6",
+          "description": "Task Two",
+          "sort_order": "1",
+          "assigned_to": {
+            "id": "2",
+            "name": "Rushaeid Hasan",
+            "email": "rushaeidhasan@gmail.com",
+            "username": "rushaeidhasan",
+            "created_at": "2024-01-21 12:29:46",
+            "avatar": ""
+          },
+          "start_date": null,
+          "end_date": null,
+          "status": "ACTIVE",
+          "priority_id": "1",
+          "priority": {
+            "id": "1",
+            "name": "Low",
+            "project_id": "1",
+            "color_code": "",
+            "sort_order": "1"
+          },
+          "parent": null,
+          "created_at": "2024-01-27 10:27:10",
+          "updated_at": null,
+          "members": [],
+          "children": []
+        },
+        {
+          "id": "9",
+          "project_id": "1",
+          "task_section_id": "2",
+          "name": "Task Two",
+          "slug": "task-two-5",
+          "description": "Task Two",
+          "sort_order": "1",
+          "assigned_to": {
+            "id": "2",
+            "name": "Rushaeid Hasan",
+            "email": "rushaeidhasan@gmail.com",
+            "username": "rushaeidhasan",
+            "created_at": "2024-01-21 12:29:46",
+            "avatar": ""
+          },
+          "start_date": null,
+          "end_date": null,
+          "status": "ACTIVE",
+          "priority_id": "1",
+          "priority": {
+            "id": "1",
+            "name": "Low",
+            "project_id": "1",
+            "color_code": "",
+            "sort_order": "1"
+          },
+          "parent": null,
+          "created_at": "2024-01-27 10:19:36",
+          "updated_at": null,
+          "members": [],
+          "children": []
+        }
+      ]
+    }
+  }
+  
