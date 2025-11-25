@@ -1,0 +1,34 @@
+...existing code...
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Caches
+.cache/
+node_modules/.cache/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# WordPress / PHP / vendor (if any)
+vendor/
+*.log
+
+# Misc
+*.pid
+*.seed
