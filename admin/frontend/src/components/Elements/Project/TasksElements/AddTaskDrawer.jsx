@@ -328,8 +328,8 @@ const AddTaskDrawer = ({ view, projectId, projectInfo, taskSectionId, addTaskDra
 
     return (
         <>
-            <Box bg={'yellow'} h={'500px'}>
-                <Box mt={'xs'} p={'xs'} >
+            <div className="drawer">
+                <div className="mt-2">
                     <div className="drawer-head flex gap-3 mb-4 w-full items-center">
                         <div className="w-[85%]">
                             <TextInput
@@ -549,8 +549,8 @@ const AddTaskDrawer = ({ view, projectId, projectInfo, taskSectionId, addTaskDra
                 </div>*/}
                         </div>
                     </ScrollArea>
-                </Box>
-            </Box>
+                </div>
+            </div>
         </>
     );
 };
